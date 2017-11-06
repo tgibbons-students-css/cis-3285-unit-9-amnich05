@@ -45,6 +45,7 @@
     <Compile Include="ITradeParser.cs" />
     <Compile Include="ITradeStorage.cs" />
     <Compile Include="ITradeValidator.cs" />
+    <Compile Include="IURLTradeDataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TradeRecord.cs" />
   </ItemGroup>
